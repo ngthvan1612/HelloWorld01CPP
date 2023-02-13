@@ -1,0 +1,6 @@
+# ninja log v5
+2	873	6979860668031994	CMakeFiles/HelloWorld01.dir/main.cpp.obj	3e897227ae5c0cd2
+874	1088	6979860670144085	HelloWorld01.exe	e733424e14399148
+13	906	6979865509963319	CMakeFiles/HelloWorld01.dir/Car.cpp.obj	1175c300ec2ea2c3
+2	1129	6979865512183169	CMakeFiles/HelloWorld01.dir/main.cpp.obj	3e897227ae5c0cd2
+1130	1461	6979865515469176	HelloWorld01.exe	cd7bc86097f850fa
