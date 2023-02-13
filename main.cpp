@@ -12,6 +12,10 @@ int sumOfArray(const vector<int> arr) {
     return sum;
 }
 
+void foo() {
+    cout << "Hello world!!";
+}
+
 int main() {
     Car* car = new Car("xe 01");
     cout << "car name: " << car->getCarName();
